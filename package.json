@@ -1,0 +1,20 @@
+{
+  "name": "belajar2",
+  "version": "1.0.0",
+  "description": "belajar web node js 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "http://localhost:8080/"
+  },
+  "keywords": [
+    "nodejs",
+    "web"
+  ],
+  "author": "baysptr",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "instagram-node": "^0.5.8"
+  }
+}
